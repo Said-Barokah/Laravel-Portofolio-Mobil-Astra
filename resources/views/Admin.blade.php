@@ -9,11 +9,11 @@
             </div>
             <div>
                 <a href="{{route('admin.create')}}" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-                    Tambahkan Data
+                    Tambah Data
                 </a>
             </div>
         </div>
-        <section class="container mx-auto p-6 font-mono">
+        <section class="container mx-auto p-4 font-mono">
             <div class="w-full mb-8 overflow-hidden rounded-lg shadow-lg">
                 <div class="w-full overflow-x-auto">
                     <table class="w-full">
